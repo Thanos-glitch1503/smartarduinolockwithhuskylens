@@ -1,12 +1,11 @@
-![IMG_20250529_183939](https://github.com/user-attachments/assets/ed08540e-bd8f-4765-a641-43477a283034)
-![IMG_20250529_183933](https://github.com/user-attachments/assets/85e4c643-a2de-4111-ad9d-665cef95de03)
-![IMG_20250529_183928](https://github.com/user-attachments/assets/03ca24b2-a496-470a-af27-8d93d98bcdfa)
+
+
 # smartarduinolockwithhuskylens
 
 Overview
 
 This project implements a smart door lock system that uses facial recognition to grant access. The system integrates an Arduino Uno with a HuskyLens camera module, which detects and recognizes pre-registered face IDs to control a servo-driven lock mechanism. When an authorized face is detected, the servo unlocks the door.
-
+![IMG_20250529_183939](https://github.com/user-attachments/assets/ed08540e-bd8f-4765-a641-43477a283034)
 Hardware Requirements:
 
 1.Arduino Uno: The microcontroller that processes data and controls the servo.
@@ -22,7 +21,7 @@ Hardware Requirements:
 6.Door and Lock Mechanism: A physical setup where the servo can engage/disengage the lock.
 
 7.Optional: Breadboard or prototyping board for connections.
-
+![IMG_20250529_183933](https://github.com/user-attachments/assets/85e4c643-a2de-4111-ad9d-665cef95de03)
 
 Software Requirements:
 
@@ -144,4 +143,5 @@ Power on the HuskyLens and set it to Face Recognition mode using its built-in in
 
 Register authorized faces by following the HuskyLens manual to assign face IDs.
 
+[IMG_20250529_183933](https://github.com/user-attachments/assets/85e4c643-a2de-4111-ad9d-665cef95de03)
 
