@@ -1,3 +1,6 @@
+![IMG_20250529_183939](https://github.com/user-attachments/assets/ed08540e-bd8f-4765-a641-43477a283034)
+![IMG_20250529_183933](https://github.com/user-attachments/assets/85e4c643-a2de-4111-ad9d-665cef95de03)
+![IMG_20250529_183928](https://github.com/user-attachments/assets/03ca24b2-a496-470a-af27-8d93d98bcdfa)
 # smartarduinolockwithhuskylens
 
 Overview
