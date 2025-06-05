@@ -143,5 +143,5 @@ Power on the HuskyLens and set it to Face Recognition mode using its built-in in
 
 Register authorized faces by following the HuskyLens manual to assign face IDs.
 
-[IMG_20250529_183933](https://github.com/user-attachments/assets/85e4c643-a2de-4111-ad9d-665cef95de03)
+
 
